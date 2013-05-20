@@ -1,7 +1,9 @@
-prizmcloud_docs_viewer_concrete5
-================================
+PrizmCloud Emebbed Document Viewer for concrete5
+================================================
 
-Concrete5 Add On for PrizmCloud Embedded Documents Viewer
+Concrete5 Add On for PrizmCloud Embedded Document Viewer.
+
+You will need a PrizmCloud account to use PrizmCloud Document Viewer. [PrizmCloud Sign Up](http://prizmcloud.accusoft.com/register.html "PrizmCloud") 
 
 ##Installation Instructions
 
