@@ -5,6 +5,8 @@ Concrete5 Add On for PrizmCloud Embedded Document Viewer.
 
 You will need a PrizmCloud account to use PrizmCloud Document Viewer. [PrizmCloud Sign Up](http://prizmcloud.accusoft.com/register.html "PrizmCloud") 
 
+View a [demo](http://prizmcloud.accusoft.com/demo.html)
+
 ##Installation Instructions
 
 1. Unzip this file in your site's packages/ directory.
